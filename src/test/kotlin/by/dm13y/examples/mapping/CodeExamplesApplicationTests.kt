@@ -1,4 +1,4 @@
-package by.dm13y.examples.demo
+package by.dm13y.examples.mapping
 
 import org.junit.jupiter.api.Test
 import org.springframework.beans.factory.annotation.Autowired

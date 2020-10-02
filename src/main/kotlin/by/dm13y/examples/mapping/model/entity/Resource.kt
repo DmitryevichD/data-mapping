@@ -1,4 +1,4 @@
-package by.dm13y.examples.demo.model.entity
+package by.dm13y.examples.mapping.model.entity
 
 data class Resource(
     var name: String? = null,

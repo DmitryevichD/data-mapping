@@ -1,4 +1,4 @@
-package by.dm13y.examples.demo.model.dto
+package by.dm13y.examples.mapping.model.dto
 
 import javax.validation.constraints.NotNull
 

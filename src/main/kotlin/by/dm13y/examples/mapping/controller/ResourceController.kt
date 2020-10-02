@@ -1,7 +1,7 @@
-package by.dm13y.examples.demo.controller
+package by.dm13y.examples.mapping.controller
 
-import by.dm13y.examples.demo.mappers.ResourceMapper
-import by.dm13y.examples.demo.model.dto.ResourceDto
+import by.dm13y.examples.mapping.mappers.ResourceMapper
+import by.dm13y.examples.mapping.model.dto.ResourceDto
 import org.springframework.validation.annotation.Validated
 import org.springframework.web.bind.annotation.PostMapping
 import org.springframework.web.bind.annotation.RequestBody

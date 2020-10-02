@@ -1,4 +1,4 @@
-package by.dm13y.examples.demo
+package by.dm13y.examples.mapping
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

@@ -1,7 +1,7 @@
-package by.dm13y.examples.demo.mappers
+package by.dm13y.examples.mapping.mappers
 
-import by.dm13y.examples.demo.model.dto.ResourceDto
-import by.dm13y.examples.demo.model.entity.Resource
+import by.dm13y.examples.mapping.model.dto.ResourceDto
+import by.dm13y.examples.mapping.model.entity.Resource
 import org.mapstruct.Mapper
 
 @Mapper(componentModel = "spring")
